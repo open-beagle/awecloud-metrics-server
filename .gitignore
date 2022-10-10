@@ -13,3 +13,4 @@ Session.vim
 *manifest-tool
 
 vendor/
+dist/
