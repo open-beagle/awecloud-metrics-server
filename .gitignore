@@ -11,3 +11,6 @@ Session.vim
 .netrwhist
 .idea
 *manifest-tool
+
+vendor/
+dist/
